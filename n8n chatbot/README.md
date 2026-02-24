@@ -161,6 +161,11 @@ To set up the n8n Agent Workflow on your end:
 
 ---
 
+## N8N Workflow :
+<img width="1608" height="697" alt="image" src="https://github.com/user-attachments/assets/4391f2e5-fb00-4e46-b260-fdfdb947306d" />
+This is the picture of n8n workflow how it handles the prompt
+
+
 ## 💬 Usage Examples
 
 Here are some things you can say to your assistant:
